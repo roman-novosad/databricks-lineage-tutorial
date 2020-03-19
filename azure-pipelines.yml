@@ -6,8 +6,8 @@ variables:
   RESOURCE_NAME_PREFIX: lineagetutorial
   SPARK_VERSION: 2.4
   GIT_BRANCH: release/0.3
-  DATABRICKS_HOST: https://northeurope.azuredatabricks.net/
-  DATABRICKS_TOKEN: dapi00000000000000000000000000000000
+  DATABRICKS_HOST: https://westerneurope.azuredatabricks.net/
+  DATABRICKS_TOKEN: dapi29a017a738bd27b39d80a4ca811670b0
 
 pool:
   vmImage: 'Ubuntu-16.04'
